@@ -1,0 +1,10 @@
+section.datos{
+    display: flex;
+    flex-direction: column;
+}
+
+article.artdat{
+    border: black 1px solid; margin: 2px;
+    margin-bottom: 50px;
+    background-color: #eee;
+}
